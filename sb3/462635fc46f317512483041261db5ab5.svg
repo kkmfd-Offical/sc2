@@ -1,0 +1,14 @@
+<svg version="1.1" width="135.07104007740475" height="240.275935096936" viewBox="-0.3252693034194748 0.5911306523300369 135.07104007740475 240.275935096936" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="grad_1" y2="1" x2="0">
+      <stop offset="0" stop-color="#FFFF00" stop-opacity="1"/>
+      <stop offset="1" stop-color="#FF0000" stop-opacity="1"/>
+    </linearGradient>
+  <linearGradient id="grad_1-.009331801906228065,1.985376000404358,1.6797243356704712,-0.011029866524040699,-392.45,20.75" y2="0.9451" x2="133.2269" x1="12.4536" y1="1.5128" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FFFF00" stop-opacity="1"/>
+      <stop offset="1" stop-color="#FF0000" stop-opacity="1"/>
+    </linearGradient></defs>
+  <!-- Exported by Scratch - http://scratch.mit.edu/ -->
+  <path id="ID0.5347032607533038" fill="url(#grad_1-.009331801906228065,1.985376000404358,1.6797243356704712,-0.011029866524040699,-392.45,20.75)" stroke="none" stroke-linecap="round" d="M 12.7896 1.5106 L 12.9963 116.9624 L 14.9181 239.9476 L 133.8263 128.4787 L 12.7896 1.5106 Z " stroke-width="1.838938636975058"/>
+  <path id="ID0.30215593287721276" fill="#FF0000" stroke="none" d="M 2.4523 63.599 L 0.5942 63.599 L 0.5942 63.599 L 2.4523 63.599 L 2.4523 63.599 Z " stroke-width="0.6780685685693563"/>
+</svg>
