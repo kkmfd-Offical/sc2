@@ -1,0 +1,22 @@
+<svg version="1.1" width="242.59154788990475" height="241.47324649830318" viewBox="0.05423066844713287 0.3938306950546463 242.59154788990475 241.47324649830318" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="grad_1" y2="1" x2="0">
+      <stop offset="0" stop-color="#FFFF00" stop-opacity="1"/>
+      <stop offset="1" stop-color="#FF0000" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="grad_2" y2="1" x2="0">
+      <stop offset="0" stop-color="#FFFF00" stop-opacity="1"/>
+      <stop offset="1" stop-color="#FF0000" stop-opacity="1"/>
+    </linearGradient>
+  <linearGradient id="grad_1-0.009331801906228065,1.985376000404358,-1.6797243356704712,-0.011029866524040699,527.25,21.75" y2="1.9451" x2="1.5731" x1="122.3464" y1="2.5128" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FFFF00" stop-opacity="1"/>
+      <stop offset="1" stop-color="#FF0000" stop-opacity="1"/>
+    </linearGradient><linearGradient id="grad_2-.009331801906228065,1.985376000404358,1.6797243356704712,-0.011029866524040699,-284.55,21.75" y2="0.7575" x2="241.1213" x1="118.4163" y1="1.3343" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FFFF00" stop-opacity="1"/>
+      <stop offset="1" stop-color="#FF0000" stop-opacity="1"/>
+    </linearGradient></defs>
+  <!-- Exported by Scratch - http://scratch.mit.edu/ -->
+  <path id="ID0.5347032607533038" fill="url(#grad_1-0.009331801906228065,1.985376000404358,-1.6797243356704712,-0.011029866524040699,527.25,21.75)" stroke="none" stroke-linecap="round" d="M 122.0104 2.5106 L 121.8037 117.9624 L 119.8819 240.9476 L 0.9737 129.4787 L 122.0104 2.5106 Z " stroke-width="1.838938636975058"/>
+  <path id="ID0.30215593287721276" fill="#FF0000" stroke="none" d="M 132.3477 64.599 L 134.2058 64.599 L 134.2058 64.599 L 132.3477 64.599 L 132.3477 64.599 Z " stroke-width="0.6780685685693563"/>
+  <path id="ID0.5347032607533038" fill="url(#grad_2-.009331801906228065,1.985376000404358,1.6797243356704712,-0.011029866524040699,-284.55,21.75)" stroke="none" stroke-linecap="round" d="M 121.6078 1.3133 L 120.8963 117.9624 L 119.5422 240.8699 L 241.7263 129.4787 L 121.6078 1.3133 Z " stroke-width="1.838938636975058"/>
+</svg>
